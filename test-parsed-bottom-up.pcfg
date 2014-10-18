@@ -1,0 +1,47 @@
+(TOP (FRAG_WHNP (FRAG_WHNP' (WHNP (WDT What)  (NNS flights))  (PP (IN from)  (NP_NNP Detroit)))  (PP (TO to)  (NP (NNP Saint)  (NNP Petersburg))))  (PUNC .)) # 7.607304939417034E-11
+(TOP (FRAG_WHNP (FRAG_WHNP' (WHNP (WDT What)  (NNS flights))  (PP (IN from)  (NP_NNP Minneapolis)))  (PP (TO to)  (NP_NNP Pittsburgh)))  (PUNC .)) # 2.2114840265272647E-7
+(TOP (FRAG_NP (FRAG_NP' (FRAG_NP' (NP_NNS Flights)  (PP (IN from)  (NP_NNP Cleveland)))  (PP (TO to)  (NP (NNP Kansas)  (NNP City))))  (PP (IN on)  (NP_NNP Monday)))  (PUNC .)) # 7.927054496672192E-13
+(TOP (FRAG_NP (FRAG_NP' (NP_NNS Flights)  (PP (IN from)  (NP (NNP Kansas)  (NNP City))))  (PP (TO to)  (NP_NNP Cleveland)))  (PUNC .)) # 1.7853295522976967E-8
+(TOP (FRAG_NP (FRAG_NP' (NP_NNS Flights)  (PP (IN from)  (NP_NNP Ontario)))  (PP (TO to)  (NP_NNP Orlando)))  (PUNC .)) # 2.8510190119247177E-7
+(TOP (FRAG_NP (FRAG_NP' (NP (JJS Cheapest)  (NN flight))  (PP (IN from)  (NP_NNP Indianapolis)))  (PP (TO to)  (NP_NNP Memphis)))  (PUNC .)) # 5.245047150728179E-10
+(TOP (FRAG_NP (FRAG_NP' (NP_NNS Flights)  (PP (IN from)  (NP_NNP Pittsburgh)))  (PP (TO to)  (NP_NNP Newark)))  (PUNC .)) # 9.596733638353745E-7
+(TOP (SBARQ (WHNP_WP What)  (SQ (VBZ <unk>)  (NP (DT that)  (NN <unk>))))  (PUNC ?)) # 2.4310677442023523E-8
+(TOP (FRAG_NP (FRAG_NP' (FRAG_NP' (FRAG_NP' (FRAG_NP' (FRAG_NP' (NP (NP' (JJ Round)  (NN trip))  (NNS flights))  (PP (IN <unk>)  (NP (JJ <unk>)  (NN code))))  (SYM A))  (SYM P))  (SYM <unk>))  (CD five))  (CD seven))  (PUNC .)) # 8.98376597976657E-27
+(TOP (S (NP (DT The)  (NN flight))  (VP (MD should)  (VP (VP' (VB arrive)  (PP (IN at)  (NP (CD eleven)  (RB a.m))))  (NP_NN tomorrow))))  (PUNC .)) # 6.74343152673308E-19
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (DT the)  (NNS fares)))  (PUNC .)) # 9.7562602687869E-5
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP (DT the)  (NNS fares))  (PP (IN from)  (NP_NNP Dallas)))  (PP (TO to)  (NP (NNP San)  (NNP Francisco)))))  (PUNC .)) # 3.9609018000666927E-13
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP' (NP (DT the)  (NNS flights))  (PP (IN from)  (NP (NNP San)  (NNP Diego))))  (PP (TO to)  (NP (NNP San)  (NNP Francisco))))  (PP (IN on)  (NP (NNP Southwest)  (NNP Airlines)))))  (PUNC .)) # 8.73524064725441E-21
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (DT the)  (NN <unk>)))  (PUNC .)) # 7.7954847641857E-5
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP_NNS flights)  (SBAR (WHNP_WDT that)  (S_VP (VBP leave)  (PP (IN in)  (NP (DT the)  (NN morning)))))))  (PUNC .)) # 6.728932202257552E-13
+(TOP (S_VP (VB <unk>)  (NP (NP' (NP (NNP Newark)  (NNP City))  (PP (TO to)  (NP (NNP New)  (NNP York))))  (NNP City)))  (PUNC .)) # 8.170290507659883E-16
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP (NP' (NP_NNS flights)  (PP (IN from)  (NP (NNP Los)  (NNP Angeles))))  (PP (TO to)  (NP_NNP Pittsburgh)))  (PP (IN on)  (NP_NNP Monday)))  (NN evening)))  (PUNC .)) # 1.9083524013540197E-19
+(TOP (S_VP (VB Show)  (NP (DT all)  (NNS fares)))  (PUNC .)) # 3.354141410452592E-6
+(TOP (SBARQ (WHNP_WP What)  (SQ (VBZ 's)  (NP (NP' (NP (NP' (DT the)  (JJS latest))  (NN flight))  (PP (IN from)  (NP_NNP Houston)))  (PP (TO to)  (NP_NNP Dallas)))))  (PUNC ?)) # 3.052143379027061E-15
+(TOP (FRAG (FRAG' (PP (IN From)  (NP_NNP Toronto))  (PP (TO to)  (NP_NNP Atlanta)))  (PP (IN in)  (NP (DT the)  (NN afternoon))))  (PUNC .)) # 1.8812634182041016E-14
+(TOP (FRAG_WHNP (FRAG_WHNP' (WHNP (WDT What)  (NNS flights))  (PP (IN from)  (NP_NNP Denver)))  (PP (TO to)  (NP (NP' (NNP Salt)  (NNP Lake))  (NNP City))))  (PUNC .)) # 2.4354116217387547E-13
+(TOP (FRAG_WHNP (FRAG_WHNP' (WHNP (WDT What)  (NNS flights))  (PP (IN from)  (NP_NNP Atlanta)))  (PP (TO to)  (NP_NNP Washington)))  (PUNC .)) # 1.0717191820862888E-7
+(TOP (SBARQ (WHNP_WP What)  (SQ (VBZ is)  (NP (NP' (DT the)  (NN price))  (PP (IN of)  (NP (NP' (NP_NNS flights)  (PP (IN from)  (NP_NNP Indianapolis)))  (PP (TO to)  (NP_NNP Memphis)))))))  (PUNC ?)) # 7.801131698055621E-17
+(TOP (FRAG_WHNP (FRAG_WHNP' (FRAG_WHNP' (WHNP (WDT What)  (NNS flights))  (PP (IN from)  (NP_NNP Phoenix)))  (PP (TO to)  (NP (NNP Las)  (NNP Vegas))))  (PP (IN on)  (NP_NNP Saturday)))  (PUNC .)) # 1.4639067715385065E-12
+(TOP (S (NP_PRP I)  (VP (MD would)  (VP (VB like)  (S_VP (TO to)  (VP (VP' (VB find)  (ADVP (NP (NP (DT a)  (NN flight))  (SBAR (WHNP_WDT that)  (S_VP (VBP <unk>)  (PP (IN from)  (NP (NNP La)  (NNP Guardia))))))  (RB <unk>)))  (PP (TO to)  (NP (NNP San)  (NNP Jose))))))))  (PUNC .)) # 2.060582560461077E-30
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP (DT the)  (NNS flights))  (PP (IN from)  (NP_NNP Newark)))  (PP (TO to)  (NP (NNP Los)  (NNP Angeles)))))  (PUNC .)) # 1.188256513879963E-12
+NONE # 0
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP' (NP' (DT the)  (NNP T))  (NNP W))  (SYM A))  (NN flight)))  (PUNC .)) # 7.480267170099032E-14
+(TOP (S (NP_PRP I)  (VP (MD would)  (VP (VB like)  (S_VP (TO to)  (VP (VB travel)  (PP (TO to)  (NP_NNP Westchester)))))))  (PUNC .)) # 3.654155840163445E-13
+(TOP (S_VP (VB List)  (NP (NP (NP' (NP (NP' (NNP American)  (NNP Airlines))  (NNS flights))  (PP (IN from)  (NP (NNP New)  (NNP York))))  (NP_NNP Newark))  (PP (TO to)  (NP_NNP Nashville))))  (PUNC .)) # 2.0158896491227438E-21
+(TOP (INTJ_UH Thanks)  (PUNC .)) # 4.5968071993442167E-4
+(TOP (SBARQ (WHNP_WHNP (WDT What)  (NNS flights))  (SQ (VBP are)  (SQ' (NP_NP_EX there)  (SQ' (PP (IN from)  (NP_NNP Nashville))  (PP (TO to)  (NP (NP_NNP Houston)  (NP (NP (NN tomorrow)  (NN evening))  (SBAR (WHNP_WDT that)  (S_VP (VBP serve)  (NP_NN dinner))))))))))  (PUNC ?)) # 5.786319135750966E-23
+(TOP (S (NP_PRP I)  (VP (MD 'd)  (VP (VB like)  (S_VP (TO to)  (VP (VB fly)  (NP (JJ next)  (NNP Friday)))))))  (PUNC .)) # 9.757435668487918E-15
+(TOP (SBARQ (WHNP (WHNP_WDT Which)  (PP (IN of)  (NP_DT those)))  (SQ_VP (VBP are)  (ADJP_JJ nonstop)))  (PUNC ?)) # 8.43468831807999E-10
+(TOP (S (NP_PRP I)  (VP (VBP want)  (NP (NP' (NP (DT a)  (NN flight))  (PP (IN from)  (NP_NNP Ontario)))  (PP (TO to)  (NP_NNP Chicago)))))  (PUNC .)) # 2.2443789518202116E-14
+(TOP (SBARQ (WHNP (WDT Which)  (NNS ones))  (SQ_VP (SQ_VP' (VBP arrive)  (NP_NNP <unk>))  (PP (IN in)  (NP (DT the)  (NN day)))))  (PUNC ?)) # 1.2580074385360095E-14
+(TOP (SBARQ (WHNP (WHNP_WDT Which)  (PP (IN of)  (NP (DT these)  (NNS flights))))  (SQ_VP (VBP depart)  (ADVP_RBS latest)))  (PUNC ?)) # 2.1815438004706455E-10
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP (DT the)  (NNS flights))  (PP (IN from)  (NP_NNP Baltimore)))  (PP (TO to)  (NP_NNP Oakland))))  (PUNC .)) # 2.537982635792244E-10
+(TOP (SQ (VBP <unk>)  (SQ' (NP_NP_EX there)  (SQ' (NP (NP' (DT any)  (JJ other))  (NNS fares))  (SQ' (PP (IN from)  (NP_NNP Tacoma))  (PP (TO to)  (NP_NNP Montreal))))))  (PUNC ?)) # 1.6626299510091103E-18
+(TOP (SBARQ (WHNP_WDT Which)  (SQ (VBZ is)  (NP (DT the)  (JJS latest))))  (PUNC ?)) # 2.261560239505149E-8
+(TOP (SBARQ (WHNP (WHNP (WDT What)  (NN type))  (PP (IN of)  (NP_NN aircraft)))  (SQ (VBZ is)  (NP (NP' (NP_NN <unk>)  (PP (IN on)  (NP_DT those)))  (NNS flights))))  (PUNC ?)) # 9.989605379536538E-21
+(TOP (SBARQ (WHNP_WP What)  (SQ (VBZ is)  (NP (NP' (NP' (NP' (NP (NP' (DT the)  (JJ <unk>))  (NN fare))  (PP (IN for)  (NP (NNP United)  (NNP Airlines))))  (NN flight))  (CD four))  (CD thirty))))  (PUNC ?)) # 1.4112181770633574E-22
+(TOP (S_VP (S_VP' (VB Show)  (NP_PRP me))  (NP (NP' (NP' (NP (DT the)  (NNS flights))  (PP (IN from)  (NP (NNP Salt)  (NNP Lake))))  (NNP City))  (PP (TO to)  (NP_NNP Phoenix))))  (PUNC .)) # 1.5190850287854454E-15
+(TOP (S_VP (VB Show)  (NP_NNS flights))  (PUNC .)) # 2.2680081010323857E-4
+(TOP (SBARQ (WHNP_WP What)  (SQ (VBZ is)  (NP (NP_NNP <unk>)  (NP (NNP N)  (NNP A)))))  (PUNC ?)) # 9.008658720613322E-12
+(TOP (SBARQ (WHNP_WHNP (WDT What)  (NNS flights))  (SQ (VBP are)  (SQ' (NP_NP_EX there)  (SQ' (PP (IN from)  (NP_NNP Newark))  (PP (TO to)  (NP_NNP Tampa))))))  (PUNC ?)) # 2.340102136022092E-9
+(TOP (SBARQ (WHNP (WDT What)  (NNS flights))  (SQ_VP (SQ_VP' (VBP are)  (PP (IN from)  (NP_NNP Memphis)))  (PP (TO to)  (NP (NNP Las)  (NNP Vegas)))))  (PUNC ?)) # 1.1889076276390587E-10
